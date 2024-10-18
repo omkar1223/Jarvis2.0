@@ -6,5 +6,7 @@ int main()
 
     printf("New Branch");
 
+    printf("Pull request");
+
     return 0;
 }
