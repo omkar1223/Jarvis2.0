@@ -37,6 +37,7 @@ int main()
            printf("Freq of %d is this times %d\n",arr[i],freq[i]);
     }
 
+    printf("Thank you");
 
 
     return 0;
